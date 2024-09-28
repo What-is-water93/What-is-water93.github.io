@@ -1,0 +1,39 @@
+baseURL = "http://rubenaleman.de/"
+languageCode = "en-us"
+title = "Ruben Aleman"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+theme = "hugo-coder"
+
+[params]
+  gravatar = "ruben.aleman@makandra.de"
+  author = "Ruben Aleman"
+  info = "Senior Engineer DevOps @makandra"
+  description = "Ruben Aleman's website"
+  keywords = "developer,devops,operations"
+  colorScheme = "dark"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/Rubenmakandra"
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 2
+url = "https://github.com/What-is-water93"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/ruben-aleman-4930642aa/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-xing fa-2x"
+weight = 4
+url = "https://www.xing.com/profile/Ruben_Aleman"
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
