@@ -1,6 +1,6 @@
 baseURL = "http://rubenaleman.de/"
 languageCode = "en-us"
-title = "Ruben Aleman"
+title = "Home"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 theme = "hugo-coder"
 
