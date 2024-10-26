@@ -1,8 +1,9 @@
-baseURL = "http://rubenaleman.de/"
+baseURL = "https://rubenaleman.de/"
 languageCode = "en-us"
 title = "Home"
-disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+disableKinds = ["taxonomy", "term", "RSS"]
 theme = "hugo-coder"
+enableRobotsTXT = true
 
 [params]
   gravatar = "ruben.aleman@makandra.de"
