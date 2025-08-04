@@ -6,12 +6,12 @@ theme = "hugo-coder"
 enableRobotsTXT = true
 
 [params]
-  gravatar = "ruben.aleman@makandra.de"
-  author = "Ruben Aleman"
-  info = "Senior Engineer DevOps @makandra"
-  description = "Ruben Aleman's website"
-  keywords = "developer,devops,operations"
-  colorScheme = "dark"
+gravatar = "ruben.aleman@makandra.de"
+author = "Ruben Aleman"
+info = "DevOps Engineer @STACKIT"
+description = "Ruben Aleman's website"
+keywords = "developer,devops,operations"
+colorScheme = "dark"
 
 
 [[params.social]]
@@ -19,11 +19,6 @@ name = "Gitlab"
 icon = "fa-brands fa-gitlab fa-2x"
 weight = 1
 url = "https://gitlab.com/ruben.aleman"
-[[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 2
-url = "https://github.com/Rubenmakandra"
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
