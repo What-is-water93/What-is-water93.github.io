@@ -1,12 +1,12 @@
 baseURL = "https://rubenaleman.de/"
 languageCode = "en-us"
 title = "Home"
-disableKinds = ["taxonomy", "term", "RSS"]
+disableKinds = ["taxonomy", "term", "rss"]
 theme = "hugo-coder"
 enableRobotsTXT = true
 
 [params]
-gravatar = "ruben.aleman@makandra.de"
+gravatar = "info@rubenaleman.de"
 author = "Ruben Aleman"
 info = "DevOps Engineer @STACKIT"
 description = "Ruben Aleman's website"

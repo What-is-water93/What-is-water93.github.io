@@ -1,3 +1,3 @@
 [tools]
-go = "1.22.6"
-hugo = "extended_0.135.0"
+go = "latest"
+hugo-extended = "0.153.2"
