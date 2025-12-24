@@ -8,7 +8,7 @@ enableRobotsTXT = true
 [params]
 gravatar = "info@rubenaleman.de"
 author = "Ruben Aleman"
-info = "DevOps Engineer @STACKIT"
+info = "DevOps Engineer | [STACKIT](https://stackit.com)"
 description = "Ruben Aleman's website"
 keywords = "developer,devops,operations"
 colorScheme = "dark"
